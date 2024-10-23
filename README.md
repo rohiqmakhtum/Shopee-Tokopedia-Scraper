@@ -5,5 +5,5 @@ This project can be used to scrape tokopedia.com and shopee.com
 
 ## Requirement / dependency
 
-- selenium
-- ...
+- Selenium
+- BeautifulSoup
